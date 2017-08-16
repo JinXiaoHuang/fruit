@@ -1,0 +1,25 @@
+{
+	"index.html": {
+		"resources": [
+			"img/home_pic_02@2x.png",
+			"img/tar_shop_n@2x.png",
+			"img/sreach@2x.png",
+			"img/home_like_01@2x.png",
+			"img/home_pic_03@2x.png",
+			"css/index.css",
+			"css/com.css",
+			"img/home_pic_05@2x.png",
+			"img/home_pic_01@2x.png",
+			"img/tar_buy_n@2x.png",
+			"img/home_avatar_01@2x.png",
+			"img/tar_me_s@2x.png",
+			"img/home_avatar_04@2x.png",
+			"js/iscroll.js",
+			"js/jquery-3.2.1.min.js",
+			"js/demo.js",
+			"img/home_pic_04@2x.png",
+			"img/home_avatar_02@2x.png",
+			"img/tar_index_n@2x.png"
+		]
+	}
+}
